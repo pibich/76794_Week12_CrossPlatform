@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857432090968",
+    "project_id": "crossplatcheat",
+    "storage_bucket": "crossplatcheat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857432090968:android:79b149f1e824b2d9bbdd2d",
+        "android_client_info": {
+          "package_name": "com.umn.crossplatcheat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8dDCHIf88bKWLWN82DBBwCXrFLeaYAqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
