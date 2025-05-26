@@ -1,3 +1,4 @@
+// Code Week 12 //
 // import React, { useState, useEffect } from 'react';
 // import { View, Text, Button, Alert, Image, ActivityIndicator } from 'react-native';
 // import * as ImagePicker from 'expo-image-picker';
@@ -180,6 +181,7 @@
 //   );
 // }
 
+// Code Week 13 //
 // App.tsx
 import React, { useState, useEffect } from 'react';
 import { View, Text, Button, Alert, Image, ActivityIndicator, StyleSheet } from 'react-native';
